@@ -59,6 +59,8 @@ Blank, version-controlled templates for every document type used in this program
 | Annual filing | IRS Form 990 | CAC Annual Return |
 | Banking | FinCEN BSA rules | CBN NGO circular |
 
+The Nigerian entity is active under CAC registration; the US entity is currently in the pre-operational formation phase under the IRS 501(c)(3) framework. The GRC program covers both jurisdictions proactively to ensure compliance readiness precedes full US operational activity.
+
 ---
 
 ## Getting Started
