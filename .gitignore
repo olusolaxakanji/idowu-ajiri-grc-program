@@ -1,0 +1,6 @@
+# Local Claude Code settings — never commit to any repo
+.claude/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
