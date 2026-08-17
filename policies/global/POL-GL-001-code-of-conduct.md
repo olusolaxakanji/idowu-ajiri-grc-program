@@ -6,8 +6,8 @@
 | Title | Code of Conduct |
 | Jurisdiction | GLOBAL |
 | Version | 1.0 |
-| Effective date | [DATE] |
-| Next review date | [DATE + 12 months] |
+| Effective date | 2026-05-03 |
+| Next review date | 2027-05-03 |
 | Approving authority | Board of Directors |
 | Policy owner | Executive Director |
 | Regulatory basis | IRS Form 990 Part VI governance disclosures; CAC governance requirements under CAMA 2020 |

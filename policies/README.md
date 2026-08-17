@@ -26,7 +26,6 @@ policies/
 │   ├── POL-NG-001-scuml-aml-cft-program.md
 │   ├── POL-NG-002-cbn-ngo-fund-management.md
 │   └── POL-NG-003-ndpr-data-handling.md
-└── archive/                         # Superseded versions (never deleted)
 ```
 
 ---

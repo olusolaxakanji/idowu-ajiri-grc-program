@@ -6,8 +6,8 @@
 | Title | Anti-Bribery and Anti-Corruption Policy |
 | Jurisdiction | GLOBAL |
 | Version | 1.0 |
-| Effective date | [DATE] |
-| Next review date | [DATE + 12 months] |
+| Effective date | 2026-05-03 |
+| Next review date | 2027-05-03 |
 | Approving authority | Board of Directors |
 | Policy owner | Compliance Officer |
 | Regulatory basis | US Foreign Corrupt Practices Act (FCPA) 15 U.S.C. §§ 78dd-1 et seq.; Nigerian Corrupt Practices and Other Related Offences Act (ICPC Act) 2000; EFCC (Establishment) Act 2004 |

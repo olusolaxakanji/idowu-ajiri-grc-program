@@ -6,8 +6,8 @@
 | Title | Conflict of Interest Policy |
 | Jurisdiction | GLOBAL |
 | Version | 1.0 |
-| Effective date | [DATE] |
-| Next review date | [DATE + 12 months] |
+| Effective date | 2026-05-03 |
+| Next review date | 2027-05-03 |
 | Approving authority | Board of Directors |
 | Policy owner | Compliance Officer |
 | Regulatory basis | IRS Form 990 Part VI, line 12 (written conflict of interest policy); IRS Rev. Proc. 2011-33; CAMA 2020 s. 279 (director's duty to disclose interest) |

@@ -6,8 +6,8 @@
 | Title | Data Protection and Privacy Policy |
 | Jurisdiction | GLOBAL |
 | Version | 1.0 |
-| Effective date | [DATE] |
-| Next review date | [DATE + 12 months] |
+| Effective date | 2026-05-03 |
+| Next review date | 2027-05-03 |
 | Approving authority | Board of Directors |
 | Policy owner | Compliance Officer |
 | Regulatory basis | Nigeria Data Protection Regulation (NDPR) 2019 (NITDA); Nigeria Data Protection Act 2023; US state privacy laws (including California Consumer Privacy Act where applicable); IRS data security guidance for 501(c)(3) organizations |

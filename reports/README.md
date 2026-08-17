@@ -13,17 +13,17 @@ reports/
 ├── README.md
 ├── board/                          # Quarterly board compliance reports
 │   ├── 2026-Q1-compliance-report.md
-│   └── ...
-├── us/                             # US regulatory filing support files
+│   └── 2026-Q2-compliance-report.md
+├── us/                             # US regulatory filing support files [planned]
 │   ├── 990/
-│   │   └── 2025-form-990-support.md
+│   │   └── 2026-form-990-support.md                 [planned]
 │   └── state-charity/
-│       └── 2025-state-registration-renewal.md
-└── ng/                             # Nigerian regulatory filing support files
+│       └── 2026-state-registration-renewal.md        [planned]
+└── ng/                             # Nigerian regulatory filing support files [planned]
     ├── cac/
-    │   └── 2025-cac-annual-return-support.md
+    │   └── 2026-cac-annual-return-support.md         [planned]
     └── scuml/
-        └── 2025-scuml-annual-return-support.md
+        └── 2026-scuml-annual-return-support.md       [planned]
 ```
 
 ---

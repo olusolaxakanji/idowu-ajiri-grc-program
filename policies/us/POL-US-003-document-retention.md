@@ -6,8 +6,8 @@
 | Title | Document Retention Policy |
 | Jurisdiction | US |
 | Version | 1.0 |
-| Effective date | [DATE] |
-| Next review date | [DATE + 12 months] |
+| Effective date | 2026-05-03 |
+| Next review date | 2027-05-03 |
 | Approving authority | Board of Directors |
 | Policy owner | Finance Lead |
 | Regulatory basis | IRS recordkeeping requirements for 501(c)(3) organizations; Sarbanes-Oxley Act (obstruction provisions); FinCEN BSA recordkeeping (31 CFR Part 1010) |

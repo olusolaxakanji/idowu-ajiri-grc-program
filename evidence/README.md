@@ -11,14 +11,16 @@ When IRS asks to see how Form 990 data was prepared, when SCUML inspects AML/CFT
 ```
 evidence/
 ├── README.md
-├── 2026/
-│   ├── US-CTRL-001/     # One folder per control ID, per year
+├── 2026/                    [planned — evidence files maintained in secure storage]
+│   ├── US-CTRL-001/
 │   ├── US-CTRL-002/
 │   ├── NG-CTRL-001/
 │   └── GL-CTRL-001/
-└── 2025/
+└── 2025/                    [planned]
     └── ...
 ```
+
+> Evidence records that contain screening results, regulatory correspondence, or any donor/vendor/grantee data are maintained in secure storage outside this repository. The directory structure above documents the intended organisation. File naming and format follow the convention below.
 
 Each control folder contains evidence files named with the test date and a short description:
 

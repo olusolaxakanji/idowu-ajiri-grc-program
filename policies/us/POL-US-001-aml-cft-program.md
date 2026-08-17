@@ -6,8 +6,8 @@
 | Title | Anti-Money Laundering and Countering the Financing of Terrorism Program (US) |
 | Jurisdiction | US |
 | Version | 1.0 |
-| Effective date | [DATE] |
-| Next review date | [DATE + 12 months] |
+| Effective date | 2026-05-03 |
+| Next review date | 2027-05-03 |
 | Approving authority | Board of Directors |
 | Policy owner | Compliance Officer |
 | Regulatory basis | Bank Secrecy Act (BSA) 31 U.S.C. §§ 5311–5336; FinCEN 31 CFR Part 1010; OFAC sanctions programs; USA PATRIOT Act |

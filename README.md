@@ -117,7 +117,7 @@ Each screening record logs: entity name, screen date, lists checked, tool or sou
 
 ## Board Reporting
 
-The [Q1 2026 Board Compliance Report](./reports/board/2026-Q1-compliance-report.md) is the standard format for quarterly board reporting. Each report covers:
+The [Q2 2026 Board Compliance Report](./reports/board/2026-Q2-compliance-report.md) is the most recent quarterly report. The [Q1 2026 Board Compliance Report](./reports/board/2026-Q1-compliance-report.md) is also available. Both follow the standard format for quarterly board reporting. Each report covers:
 
 - Control testing results for the quarter, with pass/fail status and open exceptions
 - Risk register movement: count by level and any changes from the prior quarter
@@ -159,5 +159,5 @@ Evidence files larger than 10 MB should be stored in the designated secure drive
 ---
 
 **Compliance Officer:** Olusola B. Akanji
-**Last programme review:** 2026-Q1
+**Last programme review:** 2026-Q2
 **Next scheduled review:** 2026-Q2 (July 2026)

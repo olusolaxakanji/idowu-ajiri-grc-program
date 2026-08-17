@@ -6,8 +6,8 @@
 | Title | CBN NGO Fund Management Policy |
 | Jurisdiction | NG |
 | Version | 1.0 |
-| Effective date | [DATE] |
-| Next review date | [DATE + 12 months] |
+| Effective date | 2026-05-03 |
+| Next review date | 2027-05-03 |
 | Approving authority | Board of Directors |
 | Policy owner | Finance Lead |
 | Regulatory basis | Central Bank of Nigeria Circular on Non-Governmental Organizations (latest revision); Foreign Exchange (Monitoring and Miscellaneous Provisions) Act (FEMMAP); CBN AML/CFT Regulations 2022 |

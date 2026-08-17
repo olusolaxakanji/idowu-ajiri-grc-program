@@ -6,8 +6,8 @@
 | Title | SCUML AML/CFT Program Policy (Nigeria) |
 | Jurisdiction | NG |
 | Version | 1.0 |
-| Effective date | [DATE] |
-| Next review date | [DATE + 12 months] |
+| Effective date | 2026-05-03 |
+| Next review date | 2027-05-03 |
 | Approving authority | Board of Directors |
 | Policy owner | Compliance Officer (acting as MLRO) |
 | Regulatory basis | Money Laundering (Prevention and Prohibition) Act 2022; Terrorism (Prevention and Prohibition) Act 2022; SCUML Guidelines for DNFBPs; CBN AML/CFT Regulations 2022 |

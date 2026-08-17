@@ -9,9 +9,9 @@
 | Control owner | Compliance Officer |
 | Control type | Preventive |
 | Testing frequency | Per transaction (new donors/vendors/grantees) + quarterly re-screen of active relationships |
-| Last tested | [DATE] |
-| Test result | [Pass / Fail / Exception noted] |
-| Evidence reference | `evidence/[YEAR]/US-CTRL-001/` |
+| Last tested | 2026-06-30 |
+| Test result | Pass |
+| Evidence reference | `evidence/2026/US-CTRL-001/` |
 | Status | Active |
 
 ## Control Description

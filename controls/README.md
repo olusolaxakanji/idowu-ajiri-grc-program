@@ -31,12 +31,12 @@ controls/
 ├── control-index.md          # Master list: all controls, owners, status, and last test date
 ├── us/                       # Controls specific to US obligations
 │   ├── us-ctrl-001-ofac-sanctions-screening.md
-│   ├── us-ctrl-002-irs-public-disclosure.md
-│   └── us-ctrl-003-state-charity-registration.md
+│   ├── us-ctrl-002-irs-public-disclosure.md          [planned]
+│   └── us-ctrl-003-state-charity-registration.md    [planned]
 └── ng/                       # Controls specific to Nigerian obligations
     ├── ng-ctrl-001-scuml-registration-renewal.md
-    ├── ng-ctrl-002-cac-annual-return.md
-    └── ng-ctrl-003-cbn-ngo-reporting.md
+    ├── ng-ctrl-002-cac-annual-return.md              [planned]
+    └── ng-ctrl-003-cbn-ngo-reporting.md              [planned]
 ```
 
 ---

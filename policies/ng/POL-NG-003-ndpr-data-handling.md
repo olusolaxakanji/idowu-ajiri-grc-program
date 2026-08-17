@@ -6,8 +6,8 @@
 | Title | NDPR Data Handling Procedure (Nigeria) |
 | Jurisdiction | NG |
 | Version | 1.0 |
-| Effective date | [DATE] |
-| Next review date | [DATE + 12 months] |
+| Effective date | 2026-05-03 |
+| Next review date | 2027-05-03 |
 | Approving authority | Board of Directors |
 | Policy owner | Compliance Officer |
 | Regulatory basis | Nigeria Data Protection Regulation (NDPR) 2019; Nigeria Data Protection Act (NDPA) 2023; NITDA Guidelines |

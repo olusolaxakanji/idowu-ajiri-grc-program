@@ -9,9 +9,9 @@
 | Control owner | Compliance Officer |
 | Control type | Preventive |
 | Testing frequency | Annual (renewal deadline: 31 March each year) |
-| Last tested | [DATE] |
-| Test result | [Pass / Fail / Exception noted] |
-| Evidence reference | `evidence/[YEAR]/NG-CTRL-001/` |
+| Last tested | 2026-06-27 |
+| Test result | Pass |
+| Evidence reference | `evidence/2026/NG-CTRL-001/` |
 | Status | Active |
 
 ## Control Description
@@ -29,4 +29,4 @@ The Idowu Ajiri Foundation is classified as a Designated Non-Financial Business 
 2. Confirm annual return was filed by the 30 June deadline for the prior year.
 3. Confirm current MLRO designation is on file and notified to SCUML.
 4. Verify CDD records exist for all active donor and partner relationships.
-5. File evidence of certificate and confirmation of annual return in `evidence/[YEAR]/NG-CTRL-001/`.
+5. File evidence of certificate and confirmation of annual return in `evidence/2026/NG-CTRL-001/`.

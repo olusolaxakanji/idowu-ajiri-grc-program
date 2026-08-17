@@ -6,8 +6,8 @@
 | Title | OFAC Sanctions Compliance Policy |
 | Jurisdiction | US |
 | Version | 1.0 |
-| Effective date | [DATE] |
-| Next review date | [DATE + 12 months] |
+| Effective date | 2026-05-03 |
+| Next review date | 2027-05-03 |
 | Approving authority | Board of Directors |
 | Policy owner | Compliance Officer |
 | Regulatory basis | International Emergency Economic Powers Act (IEEPA); Trading with the Enemy Act (TWEA); Executive Orders administered by OFAC; 31 CFR Part 501 |
