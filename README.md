@@ -2,7 +2,7 @@
 
 **Live compliance programme. Dual jurisdiction. Active programme.**
 
-The Idowu Ajiri Foundation is a nonprofit operating under US (IRS 501(c)(3)) and Nigerian (CAC/SCUML) regulatory frameworks simultaneously. This repository contains the full governance, risk, and compliance programme I built and maintain as Compliance Officer. The conflict-of-interest disclosure memo in this repository is in my name.
+The Idowu Ajiri Foundation is a pre-operational nonprofit in IRS 501(c)(3) formation in the United States, registered under Nigerian (CAC/SCUML) regulatory frameworks. This repository contains the full governance, risk, and compliance programme I built and maintain as Compliance Officer. The conflict-of-interest disclosure memo in this repository is in my name.
 
 This is not a simulation. Every policy, control, screening log, and board report reflects the foundation's actual regulatory obligations.
 
