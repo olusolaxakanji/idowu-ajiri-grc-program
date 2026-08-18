@@ -17,6 +17,7 @@ Templates solve that problem by establishing the required structure before any d
 | `screening-record-v1.md` | Individual screening records in `screening/records/` | v1 |
 | `board-report-v1.md` | Quarterly board compliance reports in `reports/board/` | v1 |
 | `exception-record-v1.md` | Screening or control exceptions in `screening/exceptions/` | v1 |
+| `system-description-v1.md` | Blank SOC 2 System Description template per AICPA AT-C Section 205 guidance. | v1 |
 
 ---
 

@@ -28,6 +28,7 @@ The Foundation enters Q3 with no open compliance exceptions, all H1 2026 annual 
 | NG-CTRL-002 | CAC Annual Return Filing | Annual | 25 Jun 2026 | Pass | Annual return submitted June 25, 2026. Confirmation receipt on file. |
 | GL-CTRL-001 | Board Governance and Meeting Quorum | Quarterly | 19 Jun 2026 | Pass | Q2 board meeting held June 19. Quorum achieved (5 of 5 members present). Minutes filed. |
 | GL-CTRL-002 | Conflict of Interest Disclosure | Annual | 30 Apr 2026 | Pass | Disclosures received from all 5 board members. No conflicts identified. Disclosures filed. |
+| GL-CTRL-003 | Anti-Bribery and Corruption Training | Annual | N/A | Not yet due | Scheduled Q4 2026. |
 
 **Open exceptions from prior quarter:** None. All Q1 recommendations were actioned:
 - Form 990 extension filed May 14 (Recommendation 1: complete)
@@ -42,19 +43,19 @@ The Foundation enters Q3 with no open compliance exceptions, all H1 2026 annual 
 |---|---|---|
 | CRITICAL | 0 | No change |
 | HIGH | 2 | No change |
-| MEDIUM | 5 | -1 (RISK-IAF-008 closed following SCUML annual return submission) |
+| MEDIUM | 5 | -1 (RISK-012 closed following SCUML annual return submission) |
 | LOW | 1 | No change |
 
 **Risks requiring board attention this quarter:**
 
-**RISK-IAF-001: OFAC Sanctions Exposure (HIGH)**
+**RISK-001: OFAC Sanctions Exposure (HIGH)**
 Q2 screening completed June 30 with no adverse findings. Year-to-date: 31 screens, 0 confirmed hits. Risk level unchanged. The screening program is functioning as designed. No board action required.
 
-**RISK-IAF-002: SCUML Deregistration Risk (HIGH)**
+**RISK-003: SCUML Deregistration Risk (HIGH)**
 The SCUML annual return was submitted June 27, three days ahead of the June 30 deadline. Filing confirmation receipt is on file with the Compliance Officer. This risk remains HIGH as a structural risk of the Foundation's SCUML-registered status, not as an active threat. The timely filing removes near-term deregistration exposure for the next 12 months. The next annual return is due March 31, 2027.
 
-**RISK-IAF-008: SCUML Filing Deadline (MEDIUM) — Closed**
-This risk tracked the operational risk of missing the June 30 SCUML filing deadline. The annual return was submitted June 27, resolving this risk. Risk closed. The underlying HIGH risk (RISK-IAF-002) remains open as a structural matter.
+**RISK-012: SCUML Filing Deadline (MEDIUM) — Closed**
+This risk tracked the operational risk of missing the June 30 SCUML filing deadline. The annual return was submitted June 27, resolving this risk. Risk closed. The underlying HIGH risk (RISK-003) remains open as a structural matter.
 
 ---
 
@@ -128,4 +129,4 @@ The board is notified that all H1 2026 compliance obligations have been met. SCU
 
 Compliance Officer: Olusola Akanji &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Date: 7 July 2026
 
-Board Treasurer: _________________________________ Date: _____________
+Board Treasurer: [Board Treasurer] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Date: 15 July 2026

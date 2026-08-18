@@ -46,11 +46,11 @@ Reports are reviewed by the Board Treasurer before distribution. Both the Compli
 
 **Current upcoming deadlines tracked in board reports:**
 
-| Deadline | Obligation | Owner |
-|---|---|---|
-| 15 May 2026 (or extension) | IRS Form 990 filing | Finance Lead |
-| 30 Jun 2026 | SCUML Annual Return | Compliance Officer |
-| 30 Jun 2026 | CAC Annual Return | Finance Lead |
+| Deadline | Obligation | Owner | Status |
+|---|---|---|---|
+| 15 November 2026 | IRS Form 990 filing (extended deadline) | Finance Lead | Extension filed May 14; preparation underway |
+| 31 March 2027 | SCUML Annual Return | Compliance Officer | Next cycle; filed June 27, 2026 |
+| 31 March 2027 | CAC Annual Return | Finance Lead | Next cycle; filed June 25, 2026 |
 
 ---
 

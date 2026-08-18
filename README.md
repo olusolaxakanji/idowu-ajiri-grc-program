@@ -160,4 +160,4 @@ Evidence files larger than 10 MB should be stored in the designated secure drive
 
 **Compliance Officer:** Olusola B. Akanji
 **Last programme review:** 2026-Q2
-**Next scheduled review:** 2026-Q2 (July 2026)
+**Next scheduled review:** 2026-Q3 (October 2026)

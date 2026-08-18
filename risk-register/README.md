@@ -32,12 +32,7 @@ The register is the document that answers: what risks does the foundation face, 
 ```
 risk-register/
 ├── README.md
-├── master-risk-register.md    # Consolidated view of all active risks
-├── archive/                   # Closed or retired risk entries
-├── operational/               # Program delivery and staffing risks
-├── financial/                 # Fraud, misappropriation, FX, and funding risks
-├── compliance/                # Regulatory and legal exposure risks
-└── reputational/              # Brand, media, and partner-relationship risks
+└── master-risk-register.md    # Consolidated view of all active and closed risks
 ```
 
 ---
@@ -87,7 +82,7 @@ Documenting both the inherent and residual rating is what allows the register to
 
 ## Risk Numbering
 
-`RISK-NNN` in sequence across all categories. Never reuse a retired ID. Close retired risks in the master register with a close date and reason, then move the entry record to `archive/`.
+`RISK-NNN` in sequence across all categories. Never reuse a retired ID. When a risk is closed, mark it with a [CLOSED] status and close date in the master register. Do not move closed risks to a separate directory. The master register is the single source of record for all active and closed risks.
 
 ---
 
