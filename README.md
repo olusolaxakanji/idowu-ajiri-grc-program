@@ -150,12 +150,6 @@ All document types used in this programme have version-controlled blank template
 
 ---
 
-## Contributing
-
-All substantive changes require a pull request reviewed by the Compliance Officer before merging to `main`. See [CONTRIBUTING.md](./CONTRIBUTING.md) for review cadence and ownership rules.
-
-Evidence files larger than 10 MB should be stored in the designated secure drive and linked by URL in the evidence record. Do not commit large binaries to this repository.
-
 ---
 
 **Compliance Officer:** Olusola B. Akanji
